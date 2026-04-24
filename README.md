@@ -150,3 +150,4 @@ Thanks for visiting my profile.
 - LinkedIn: [linkedin.com/in/gerson2910](https://linkedin.com/in/gerson2910)
 - GitHub: [github.com/INGerson2910](https://github.com/INGerson2910)
 - Portfolio: [ingerson2910.github.io](https://ingerson2910.github.io)
+- Email: ing.gerson.medina@gmail.com
