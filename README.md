@@ -135,6 +135,8 @@ Besides QA and technology, I enjoy reading, playing guitar, playing video games,
 
 I also love traveling, especially to places with beautiful natural landscapes. I really enjoy outdoor experiences and discovering places where I can disconnect, relax, and appreciate nature.
 
+One of the things I value the most is spending quality time with my family. It helps me stay grounded, motivated, and focused on what really matters.
+
 I like to keep myself in constant training because I believe continuous learning is key in technology, especially in QA, where tools, methodologies, and good practices are always evolving.
 
 This GitHub profile is part of my professional journey. It helps me practice, document what I’m learning, and keep improving one step at a time.
