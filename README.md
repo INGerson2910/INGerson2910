@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Gemini_Generated_Image_hcttpthcttpthctt.png" alt="INGerson2910 QA Engineer Banner" width="100%" />
+  <img src="assets/Anime_QA_Engineer.png" alt="INGerson2910 QA Engineer Banner" width="100%" />
 </p>
 
 # Hi, I'm Gerson 👋  
